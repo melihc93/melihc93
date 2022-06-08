@@ -5,7 +5,9 @@
 + Jenkins
 + GoLang based backend API Services
 + Java based test-automation frameworks
+
 🌱 I’m currently learning Docker & Jenkins
+
 💞️ I’m looking to new members for my CoC Clan, and WoW dungeon friends :)
 
 Linkedin Profile:
