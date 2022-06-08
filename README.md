@@ -22,9 +22,8 @@ I am Software Test Engineer, mostly worked on Search Engine Projects. Writing te
 + <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a> <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a> based, vanilla front-end frameworks
 + <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> applications
 + <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a> editing
-+ Elasticsearch 
++ <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/ElasticSearch-000000.svg?logo=elasticsearch&logoColor=dark"></a> NoSQL Databases 
 + <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-+ NoSQL data bases
 + <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a> shell scripting
 + Development Operations
 + Object Oriented Programming
@@ -32,6 +31,6 @@ I am Software Test Engineer, mostly worked on Search Engine Projects. Writing te
 🌱 I’m currently learning 
 -  <a href="#"><img alt ="Docker" src="https://img.shields.io/badge/docker-E8F4F3.svg?logo=docker&logoColor=blue"></a>
 -  <a href="#"><img alt ="Jenkins" src="https://img.shields.io/badge/Jenkins-79DF86.svg?logo=jenkins&logoColor=dark"></a>
--  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> - Selenium based front-end automation
+-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a> - <a href="#"><img alt="Java" src="https://img.shields.io/badge/Selenium-FFFFFF.svg?logo=selenium&logoColor=dark"></a> based front-end automation
 
 💞️ I’m looking to new members for my CoC Clan, and WoW dungeon friends :)
