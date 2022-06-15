@@ -34,3 +34,6 @@ I am Software Test Engineer, mostly worked on Search Engine Projects. Writing te
 -  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-E10000.svg?logo=java&logoColor=white"></a> - <a href="#"><img alt="Java" src="https://img.shields.io/badge/Selenium-FFFFFF.svg?logo=selenium&logoColor=dark"></a> based front-end automation
 
 💞️ I’m looking to new members for my CoC Clan, and WoW dungeon friends :)
+
+
+![Visits Badge](https://badges.pufler.dev/visits/melihc93/melihc93)
