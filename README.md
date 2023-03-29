@@ -36,4 +36,4 @@ I am Software Test Engineer, mostly worked on Search Engine Projects. Writing te
 💞️ I’m looking to new members for my CoC Clan, and WoW dungeon friends :)
 
 
-![Visits Badge](https://badges.pufler.dev/visits/melihc93/melihc93)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=melihc93.README.md)
